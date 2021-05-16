@@ -23,3 +23,4 @@ WHEN the game is over
 
 THEN I can save my initials and score
 
+![alt text](https://github.com/jhwang2525/Jun-s-Code-Quiz/blob/main/image.PNG)
