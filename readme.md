@@ -25,4 +25,4 @@ THEN I can save my initials and score
 
 ![alt text](https://github.com/jhwang2525/Jun-s-Code-Quiz/blob/main/image.PNG)
 
-file:///C:/Users/Admin/Desktop/projects/code-quiz/quiz.html
+Deployed Application URL: https://jhwang2525.github.io/Jun-s-Code-Quiz/
